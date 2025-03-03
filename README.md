@@ -5,7 +5,7 @@ this is about my professional profile
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Portfolio</title>
+    <title>My Portfolio</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; }
         header { background: #007bff; color: white; padding: 20px; font-size: 24px; }
@@ -17,7 +17,7 @@ this is about my professional profile
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
+        <h1>Danish Mifzal</h1>
         <p>Data Analyst | Data Mining Enthusiast</p>
     </header>
     <section>
@@ -38,11 +38,12 @@ this is about my professional profile
     </section>
     <section class="contact">
         <h2>Contact Me</h2>
-        <p>Email: your.email@example.com</p>
-        <p>Fiverr: <a href="#">Your Fiverr Profile</a></p>
+        <p>Email: danishmifzal7@gmail.com</p>
+        <p>Fiverr: <a href="#">nishikoriyuuki</a></p>
     </section>
     <footer>
-        <p>&copy; 2025 Your Name | All Rights Reserved</p>
+        <p>&copy; 2025 Danish Mifzal | All Rights Reserved</p>
     </footer>
 </body>
 </html>
+
