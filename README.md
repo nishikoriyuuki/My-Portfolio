@@ -14,9 +14,10 @@ This is about my professional profile.
     </section>
     <section class="portfolio">
         <h2>Work Samples</h2>
-        <img src="sample1.jpg" alt="Sample Work 1">
-        <img src="sample2.jpg" alt="Sample Work 2">
-        <img src="sample3.jpg" alt="Sample Work 3">
+        <img src="[sample1.jpg](https://files.oaiusercontent.com/file-SbL2scUiGGDn5ahKifTdQu?se=2025-03-03T03%3A24%3A55Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0351ab22-90fc-44c0-911b-1ccd3f565c54.webp&sig=uqhFVpz5IzMYHKiAeW7oIxzehJKv7JxBsSQHlAxLTS8%3D)" alt="Sample Work 1">
+        <img src="[sample2.jpg](https://files.oaiusercontent.com/file-SWxNWSifcUZU83189MMXdG?se=2025-03-03T03%3A24%3A30Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Db734adf8-ce13-44ab-815f-0eb6a1362d46.webp&sig=qw4gZg692%2BlbzG3dciKqpt/8QPukuViXeoFQDUZQWM0%3D)" alt="Sample Work 2">
+        <img src="![image](https://github.com/user-attachments/assets/51757c92-4a22-4868-b8cc-83ac75669ddc)
+" alt="Sample Work 3">
     </section>
     <section>
         <h2>Services</h2>
