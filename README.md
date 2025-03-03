@@ -2,18 +2,6 @@
 this is about my professional profile
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; }
-        header { background: #007bff; color: white; padding: 20px; font-size: 24px; }
-        section { padding: 20px; }
-        .portfolio img { width: 100%; max-width: 300px; margin: 10px; }
-        .contact { margin-top: 20px; }
-        footer { background: #333; color: white; padding: 10px; margin-top: 20px; }
-    </style>
 </head>
 <body>
     <header>
