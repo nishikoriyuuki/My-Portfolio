@@ -1,5 +1,5 @@
 # My-Portfolio
-this is about my professional profile
+This is about my professional profile.
 <!DOCTYPE html>
 <html lang="en">
 </head>
